@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepamck
+- 👋 Hi, I am Deepa
 - 👀 I’m interested in the exciting world of data science and its limitless potential to extract valuable insights from vast amounts of data. As a data enthusiast, I find joy in exploring patterns, uncovering hidden trends, and developing innovative solutions to real-world challenges.
 - 🌱 I’m currently learning the latest advancements in data science, from machine learning algorithms and statistical modeling to data visualization techniques and big data technologies. Embracing a growth mindset, I am eager to expand my knowledge and keep up with the ever-evolving landscape of data science.
 - 💞️ I’m looking to collaborate on diverse data-driven projects that leverage my skills and expertise. I believe in the power of collaboration to bring about innovative solutions and am enthusiastic about working with like-minded individuals who share a passion for turning data into meaningful impact.
